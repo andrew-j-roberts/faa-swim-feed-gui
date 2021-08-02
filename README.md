@@ -6,6 +6,8 @@ A browser application that implements a geo-filtering algorithm to dynamically g
 
 This GUI displays data produced by [SWIM Feed Handler](https://github.com/solacese/swim-feed-handler), an application designed to relay messages from the FAA's publicly available US System Wide Information Management (SWIM) data feeds to a Solace PubSub+ Event Broker. The SWIM Feed Handler GitHub repository includes a thorough overview of the steps required to sign up with the FAA to receive SCDS data and to run the application locally.
 
+![2021-08-01_22-57-42 (1)](https://user-images.githubusercontent.com/46111212/127798735-dbdc492d-60ed-4f46-8f27-f2d74507d02c.gif)
+
 ## Public URL
 
 [https://solacese.github.io/faa-scds-feeds-gui/](https://solacese.github.io/faa-scds-feeds-gui/)
